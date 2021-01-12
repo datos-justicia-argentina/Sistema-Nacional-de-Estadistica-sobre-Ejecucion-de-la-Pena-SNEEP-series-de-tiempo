@@ -8,7 +8,7 @@ http://datos.jus.gob.ar/dataset/sistema-nacional-de-estadisticas-sobre-ejecucion
 Características
 ---------------
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 12/01/2021
 
 -   **Tags o Etiquetas:** establecimientos penitenciarios, SPF, SNEEP, personas privadas de la libertad, cárceles, ejecución de la pena, prisión, presos, censos, series de tiempo
 
