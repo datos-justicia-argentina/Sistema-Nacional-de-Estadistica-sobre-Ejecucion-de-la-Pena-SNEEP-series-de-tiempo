@@ -115,7 +115,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - situación legal otra situación
 
@@ -129,7 +129,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - género varones
 
@@ -143,7 +143,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - género mujeres
 
@@ -157,7 +157,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - género trans
 
@@ -171,7 +171,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad menores de 18 años
 
@@ -185,7 +185,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad 18 a 20 años
 
@@ -199,7 +199,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campoos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad 21 a 24 años
 
@@ -213,7 +213,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad 25 a 34 años
 
@@ -227,7 +227,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad 35 a 44 años
 
@@ -241,7 +241,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad 45 a 54 años
 
@@ -255,7 +255,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad 55 a 64 años
 
@@ -269,7 +269,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad 65 y más
 
@@ -283,7 +283,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - edad sin datos
 
@@ -297,7 +297,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - delitos homicidio doloso
 
@@ -311,7 +311,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - delitos robo y/o tentativa de robo
 
@@ -325,7 +325,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - delitos estupefacientes
 
@@ -339,7 +339,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - mujeres con hijos-hijas intramuro
 
@@ -353,7 +353,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Notas
 
