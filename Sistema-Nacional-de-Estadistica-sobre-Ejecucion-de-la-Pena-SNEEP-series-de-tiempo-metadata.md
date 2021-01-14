@@ -101,7 +101,7 @@ Recursos Disponibles
 
 ### Campos del recurso
 
-IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso Sneep series de tiempo - población total
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo. La descripción completa de los nombres de campo se puede ver en el recurso **Sneep series de tiempo - población total**
 
 ### Sneep series de tiempo - situación legal procesados-procesadas
 
