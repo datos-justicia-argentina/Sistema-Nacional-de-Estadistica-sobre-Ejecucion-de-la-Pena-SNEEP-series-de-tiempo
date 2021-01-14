@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 12/01/2021
 
--   **Tags o Etiquetas:** establecimientos penitenciarios, SPF, SNEEP, personas privadas de la libertad, cárceles, ejecución de la pena, prisión, presos, censos, series de tiempo
+-   **Tags o Etiquetas:** establecimientos penitenciarios, SPF, SNEEP, personas privadas de la libertad, cárceles, ejecución de la pena, prisión, presos, censos, series de tiempo, Buenos Aires, Catamarca, Córdoba, Corrientes, Chaco, Chubut, Entre Ríos, FormosaJujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tucumán, Tierra del Fuego
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
 
@@ -35,6 +35,60 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+-	**indice_tiempo (int):** año del censo penitenciario
+
+-	**buenos_aires (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Buenos Aires
+
+-	**catamarca (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Catamarca
+
+-	**cordoba (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Córdoba
+
+-	**corrientes (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Corrientes
+
+-	**chaco(int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Chaco
+
+-	**chubut (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Chubut
+
+-	**entre_rios (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Entre Ríos
+
+-	**formosa (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Formosa
+
+-	**jujuy (string):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Jujuy
+
+-	**la_pampa (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de La Pampa
+
+-	**la_rioja (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de La Rioja
+
+-	**mendoza (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Mendoza
+
+-	**misiones (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Misiones
+
+-	**neuquen (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Neuquén
+
+-	**rio_negro (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Río Negro
+
+-	**salta (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Salta
+
+-	**san_juan (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de San Juan
+
+-	**san_luis (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de San Luis
+
+-	**santa_cruz (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Santa Cruz
+
+-	**santa_fe (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Santa Fe
+
+-	**santiago_del_estero (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Santiago del Estero
+
+-	**tucuman (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Tucumán
+
+-	**tierra_del_fuego (string):** personas privadas de su libertad alojadas en establecimientos penitenciarios provinciales de Tierra del Fuego
+
+-	**spf (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios del Servicio Penitenciario Federal - SPF
+
+-	**total_arg (int):** personas privadas de su libertad alojadas en establecimientos penitenciarios de todo el país
+
 ### Sneep series de tiempo - situación legal condenados-condenadas
 
 -   **Nombre del archivo:** sneep-situacion-legal-condenados-condenadas.csv
@@ -44,6 +98,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Sneep series de tiempo - situación legal procesados-procesadas
 
@@ -55,6 +113,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - situación legal otra situación
 
 -   **Nombre del archivo:** sneep-situacion-legal-otra-situacion.csv
@@ -64,6 +126,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Sneep series de tiempo - género varones
 
@@ -75,6 +141,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - género mujeres
 
 -   **Nombre del archivo:** sneep-genero-mujeres.csv
@@ -85,6 +155,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - género trans
 
 -   **Nombre del archivo:** sneep-genero-trans.csv
@@ -94,6 +168,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Sneep series de tiempo - edad menores de 18 años
 
@@ -115,6 +193,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - edad 21 a 24 años
 
 -   **Nombre del archivo:** sneep-edad-21-a-24.csv
@@ -124,6 +206,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Sneep series de tiempo - edad 25 a 34 años
 
@@ -135,6 +221,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - edad 35 a 44 años
 
 -   **Nombre del archivo:** sneep-edad-35-a-44.csv
@@ -144,6 +234,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Sneep series de tiempo - edad 45 a 54 años
 
@@ -155,6 +249,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - edad 55 a 64 años
 
 -   **Nombre del archivo:** sneep-edad-55-a-64.csv
@@ -164,6 +262,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Sneep series de tiempo - edad 65 y más
 
@@ -175,6 +277,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - edad sin datos
 
 -   **Nombre del archivo:** sneep-edad-sin-datos.csv
@@ -184,6 +290,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Sneep series de tiempo - delitos homicidio doloso
 
@@ -195,6 +305,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - delitos robo y/o tentativa de robo
 
 -   **Nombre del archivo:** sneep-delito-robo-y-o-tentativa-de-robo.csv
@@ -204,6 +318,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Sneep series de tiempo - delitos estupefacientes
 
@@ -215,6 +333,10 @@ Recursos Disponibles
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
 
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
+
 ### Sneep series de tiempo - mujeres con hijos-hijas intramuro
 
 -   **Nombre del archivo:** sneep-mujeres-con-hijos-hijas-intramuro.csv
@@ -224,6 +346,10 @@ Recursos Disponibles
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 
 ### Notas
 
