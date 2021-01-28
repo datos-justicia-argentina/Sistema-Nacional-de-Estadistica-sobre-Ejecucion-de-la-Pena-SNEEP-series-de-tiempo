@@ -1,7 +1,7 @@
 Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 ======================================================================================
 
-En este conjunto de datos se detalla información recopilada en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. La unidad de análisis son las personas alojadas en dichos establecimientos. La información está organizada en series de tiempo, clasificados por Servicio Penitenciario Federal, servicios penitenciarios provinciales y total país.
+En este conjunto de datos se detalla información recopilada en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. La unidad de análisis son las personas alojadas en dichos establecimientos. Se publica el censo correspondiente a los años 2002 a 2019. La información está clasificada por población total, situación legal, género, edad, delito y mujeres con hijos/as intramuro y organizada en series de tiempo anuales, indicando tipo de Servicio Penitenciario (Federal o provinciales), y total país.
 
 http://datos.jus.gob.ar/dataset/sistema-nacional-de-estadisticas-sobre-ejecucion-de-la-pena-sneep-series-de-tiempo
 
@@ -29,7 +29,7 @@ Recursos Disponibles
 
 -   **Nombre del archivo:** sneep-poblacion-total.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -93,7 +93,7 @@ Recursos Disponibles
 
 -   **Nombre del archivo:** sneep-situacion-legal-condenados-condenadas.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad condenadas, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad condenadas en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -107,7 +107,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-situacion-legal-procesados-procesadas.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad procesadas, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad procesadas en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -121,7 +121,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-situacion-legal-otra-situacion.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad con otra situación legal (no condenadas, ni procesadas, incluye inimputables, contraventores y otras situaciones legales), correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad con otra situación legal -no procesadas ni condenadas- en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -135,7 +135,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-genero-varones.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad varones, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Varones privados de libertad en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -149,7 +149,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-genero-mujeres.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad mujeres, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Mujeres privadas de libertad en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -163,11 +163,11 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-genero-trans.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad trans, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina. Esta categoría se releva desde el año 2015.
+-   **Descripción del contenido:** Personas trans privadas de libertad en establecimientos penitenciarios federales y provinciales de Argentina. Esta categoría se releva desde el año 2015.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2002 hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** series de tiempo de los censos - SNEEP - desde el año 2015 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -177,7 +177,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-menores-18.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad menores de 18 años, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Menores de 18 años privados de libertad en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -191,7 +191,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-18-a-20.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad de entre 18 y 20 años, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad de 18 a 20 años en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -205,7 +205,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-21-a-24.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad de entre 21 y 24 años, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad de 21 a 24 años en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -219,7 +219,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-25-a-34.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad de entre 25 y 34 años, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad de 25 a 34 años en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -233,7 +233,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-35-a-44.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad de entre 35 y 44 años, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad de 35 a 44 años en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -247,7 +247,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-45-a-54.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad de entre 45 y 54 años, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad de 45 a 54 años en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -261,7 +261,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-55-a-64.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad de entre 55 y 64 años, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad de 55 a 64 años en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -275,7 +275,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-65-y-mas.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad de 65 años y más, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad de 65 años y más en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -289,7 +289,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-edad-sin-datos.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad sin datos de edad, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad sin datos de edad en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -303,7 +303,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-delito-homicidio-doloso.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad acusadas de cometer homicidio doloso, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad por homicidio doloso en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -317,7 +317,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-delito-robo-y-o-tentativa-de-robo.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad acusadas de cometer robo y/o tentativa de robo, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad por robo y/o tentativa de robo en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -331,7 +331,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-delito-estupefaciente.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de personas privadas de su libertad acusadas de cometer delitos relacionados con estupefacientes, Ley 23.737, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Personas privadas de libertad por infracciones a la ley 23.737 de estupefacientes en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -345,7 +345,7 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-mujeres-con-hijos-hijas-intramuro.csv
 
--   **Descripción del contenido:** Población penitenciaria de la República Argentina de mujeres alojadas con sus hijos/hijas, correspondiente al Servicio Penitenciario Federal - SPF - y los servicios penitenciarios provinciales, contabilizados por provincia, con especificación de población total de Argentina.
+-   **Descripción del contenido:** Mujeres privadas de libertad con hijos/as intramuros  en establecimientos penitenciarios federales y provinciales de Argentina.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
