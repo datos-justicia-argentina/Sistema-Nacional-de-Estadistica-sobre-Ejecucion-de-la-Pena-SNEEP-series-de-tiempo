@@ -1,7 +1,7 @@
 Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - series de tiempo
 ======================================================================================
 
-En este conjunto de datos se detalla información recopilada en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. La unidad de análisis son las personas alojadas en dichos establecimientos. Se publica el censo correspondiente a los años 2002 a 2019. La información está clasificada por población total, situación legal, género, edad, delito y mujeres con hijos/as intramuro y organizada en series de tiempo anuales, indicando tipo de Servicio Penitenciario (Federal o provinciales), y total país.
+En este conjunto de datos se detalla información recopilada en el censo realizado sobre el total de la población detenida al día 31 de diciembre de cada año, en cada establecimiento de la República Argentina. La unidad de análisis son las personas alojadas en dichos establecimientos. Se publica el censo correspondiente a partir del año 2002. La información está clasificada por población total, situación legal, género, edad, delito y mujeres con hijos/as intramuro y organizada en series de tiempo anuales, indicando tipo de Servicio Penitenciario (Federal o provinciales), y total país.
 
 http://datos.jus.gob.ar/dataset/sistema-nacional-de-estadisticas-sobre-ejecucion-de-la-pena-sneep-series-de-tiempo
 
@@ -163,7 +163,13 @@ IDEM para todos los recursos del conjunto de datos Sistema Nacional de Estadíst
 
 -   **Nombre del archivo:** sneep-genero-trans.csv
 
--   **Descripción del contenido:** Personas trans privadas de libertad en establecimientos penitenciarios federales y provinciales de Argentina. Esta categoría se releva desde el año 2015.
+-   **Descripción del contenido:** Personas trans privadas de libertad en establecimientos penitenciarios federales y provinciales de Argentina. Esta categoría se releva desde el año 2015 con la siguiente clasificación:
+
+    -   2015 al 2019: Mujer - Varón - Trans Mujer/Travesti
+
+    -   2020 al 2021: Mujer - Varón - Trans Mujer/Travesti - Trans Varón
+ 
+    -   2022: Mujer - Varón - Trans Mujer/Travesti - Trans Varón - No Binario
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
