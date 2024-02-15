@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 12/01/2021
 
--   **Tags o Etiquetas:** establecimientos penitenciarios, SPF, SNEEP, personas privadas de la libertad, cárceles, ejecución de la pena, prisión, presos, censos, series de tiempo, Buenos Aires, Catamarca, Córdoba, Corrientes, Chaco, Chubut, Entre Ríos, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquén, Río Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tucumán, Tierra del Fuego
+-   **Tags o Etiquetas:** SPF, censos, cárceles, ejecución de la pena, establecimientos penitenciarios, personas privadas de la libertad, presos, prisiones, series de tiempo
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Política Criminal. Dirección Nacional de Política Criminal en Materia de Justicia y Legislación Penal
 
